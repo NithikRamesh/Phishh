@@ -10,7 +10,7 @@ on a person or organisation without written permission from them.
 
 # Installation
 
- apt update ; apt install git curl php openssh -y ; git clone https://github.com/NithikRamesh/Phishh ; cd Phishh ; bash Phishh.sh
+ apt update && apt install git ; git clone https://github.com/NithikRamesh/Phishh ; apt install curl php openssh -y ; cd Phishh ; bash Phishh.sh
  
 # Credits
  htr-tech  (https://github.com/htr-tech)
