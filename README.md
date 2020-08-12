@@ -1,5 +1,7 @@
 # Phishh
-An advanced automated phishing tool.
+An advanced automated phishing tool
+with 4 port-forwarding options.
+
 
 # Warining
 The use of this tool is completely the responsibility of the end-user. The developers 
