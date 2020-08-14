@@ -13,4 +13,4 @@ on a person or organisation without **written** permission from them.
  `apt update && apt install git ; git clone https://github.com/NithikRamesh/Phishh ; apt install curl php openssh -y ; cd Phishh ; bash Phishh.sh`
  
 # Credits
- Tahmid Rayat [htr-tech](https://github.com/htr-tech)
+ Tahmid Rayat - [htr-tech](https://github.com/htr-tech)
